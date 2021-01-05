@@ -1,0 +1,18 @@
+{
+  "name": "websiteinterface",
+  "version": "0.0.1",
+  "main": "interface.js",
+  "scripts": {
+    "start": "node interface.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Dev-Atsushi/"
+  },
+  "license": "MIT"
+}
